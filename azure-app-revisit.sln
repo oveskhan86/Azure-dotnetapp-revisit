@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-app-revisit", "azure-app-revisit.csproj", "{22DB3F42-3370-1D24-6CE3-4CF0DB8C11E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DB3F42-3370-1D24-6CE3-4CF0DB8C11E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DB3F42-3370-1D24-6CE3-4CF0DB8C11E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DB3F42-3370-1D24-6CE3-4CF0DB8C11E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DB3F42-3370-1D24-6CE3-4CF0DB8C11E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829E0AB7-4FDB-4B1F-8414-84F2FB60B9CA}
+	EndGlobalSection
+EndGlobal
