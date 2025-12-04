@@ -52,4 +52,4 @@ jobs:
           app-name: 'azure-webapp-revisit'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3311013C4E1A476EB70074966E2EBFE0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26F3CABB5645497DB5BE4B76BF25D224 }}
